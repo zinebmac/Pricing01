@@ -107,8 +107,8 @@ body{
   }
   
   .sml{
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     border: #d0d6e6 1px solid;
     border-radius: 50%;
     text-align: center;
@@ -118,8 +118,8 @@ body{
     z-index: -1;
   }
   .big{
-    width: 170px;
-    height: 170px;
+    width: 120px;
+    height: 120px;
     border: #d0d6e6 1px solid;
     border-radius: 50%;
     position: absolute;
