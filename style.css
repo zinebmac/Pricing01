@@ -70,9 +70,7 @@ body{
     border-radius: 15px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-.card h4{
-    padding: 20px;
-}
+
 .mySlider{
     width: 100%;
     display:flex;
