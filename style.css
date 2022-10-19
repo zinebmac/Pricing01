@@ -33,7 +33,7 @@ body{
 }
 .top h2{
     color:  #1f294c;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 900;
 }
 .top :nth-child(2){
@@ -42,7 +42,7 @@ body{
 }
 .top h4{
     color: #878ca2 ;
-    font-size: 20px;
+    font-size: 15px;
     margin: 3px;
     font-weight: 200;
 }
@@ -181,6 +181,7 @@ body{
     background: #fff;
     border-radius: 90px;
     transition: 0.3s;
+      transform: translate(3px, -3px);
   }
   
   input:checked + label {
