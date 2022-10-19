@@ -137,7 +137,6 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin: 20px;
   }
   .myText h2{
     font-size: 30px;
@@ -181,7 +180,7 @@ body{
     background: #fff;
     border-radius: 90px;
     transition: 0.3s;
-      transform: translate(3px, -3px);
+
   }
   
   input:checked + label {
@@ -222,7 +221,7 @@ body{
 
   }
   .container{
-    border-top: #f0f3f5 solid 1px;
+    border-top: #f0f3f6 solid 1px;
     width: 100%;
     margin-top: 20px;
     display: flex;
