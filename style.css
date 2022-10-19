@@ -84,7 +84,7 @@ body{
 .slider {
     -webkit-appearance: none;
     width: 90%;
-    height: 20px;
+    height: 15px;
     border-radius: 60px;  
     background: #a0f2ef;
     outline: none;
