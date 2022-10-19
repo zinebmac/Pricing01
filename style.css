@@ -70,7 +70,9 @@ body{
     border-radius: 15px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-
+.card h4{
+    padding: 10px;
+}
 .mySlider{
     width: 100%;
     display:flex;
@@ -161,7 +163,7 @@ body{
     cursor: pointer;
     text-indent: -9999px;
     width: 55px;
-    height: 25px;
+    height: 30px;
     background: #d0d8ef;
     display: block;
     border-radius: 100px;
@@ -216,6 +218,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-around;
 
   }
   .container{
@@ -291,8 +294,7 @@ body{
       top: 50%;
     }
     .mySwitch{
-      /* top: 55%; */
-      bottom: 0%;
+      top: 85%;
     }
     .card{
       width: 70%;
