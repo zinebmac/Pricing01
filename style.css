@@ -163,8 +163,8 @@ body{
   label {
     cursor: pointer;
     text-indent: -9999px;
-    width: 70px;
-    height: 35px;
+    width: 55px;
+    height: 25px;
     background: #d0d8ef;
     display: block;
     border-radius: 100px;
@@ -244,12 +244,12 @@ body{
       font-size:15px;
   }
   .mini p{
-    font-size: 25px;
+    font-size: 23px;
     color: #2acdb8;
   }
   .mini h4{
     color: #8a90a1;
-    font-size: 18px;
+    font-size: 15px;
   }
   .trial{
     background-color: #293356;
