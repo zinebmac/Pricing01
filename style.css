@@ -140,12 +140,12 @@ body{
     margin: 20px;
   }
   .myText h2{
-    font-size: 50px;
+    font-size: 30px;
     color: #293354;
     font-weight: 800;
   }
   .myText h4{
-    font-size: 19px;
+    font-size: 15px;
     color: #8b8e9d;
   }
 
@@ -176,8 +176,8 @@ body{
     position: absolute;
     top: 5px;
     left: 5px;
-    width: 25px;
-    height: 25px;
+    width: 20px;
+    height: 20px;
     background: #fff;
     border-radius: 90px;
     transition: 0.3s;
@@ -203,7 +203,7 @@ body{
   }
   .mySwitch h4{
     color: #9496a2;
-    font-size: 20px;
+    font-size: 15px;
   }
   .mySwitch p{
     background-color: #feede8;
